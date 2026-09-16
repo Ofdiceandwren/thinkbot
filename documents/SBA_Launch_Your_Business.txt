@@ -1,0 +1,524 @@
+Your business location determines the taxes, zoning laws, and regulations your business will be subject to. You’ll need to make a strategic decision about which state, city, and neighborhood you choose to start your business in.
+
+
+Research the best place to locate your business
+
+You’ll need to register your business, pay taxes, and get licenses and permits in the place you choose to locate your business.
+
+Where you locate your business depends in part on the location of your target market, business partners, and your personal preferences. In addition, you should consider the costs, benefits, and restrictions of different government agencies.
+
+
+Region-specific business expenses
+
+When you calculate your startup costs, take into account the way different expenses might cost more or less depending on your location.
+
+Costs that can vary significantly by location include standard salaries, minimum wage laws, property values, rental rates, business insurance rates, utilities, and government licenses and fees.
+
+
+Local zoning ordinances
+
+If you buy, rent, build, or plan to work out of a physical property for your business, make sure it conforms to local zoning requirements.
+
+Neighborhoods are generally zoned for either commercial or residential use. Zoning ordinances can restrict or entirely ban specific kinds of businesses from operating in an area.
+
+You might have fewer zoning restrictions if you base your business out of your home, but zoning ordinances can still apply even to home-based businesses.
+
+Zoning laws are typically controlled at the local level, so check with your department of city planning, or similar office, to find out about the zoning laws in your area.
+
+
+State and local taxes
+
+Consider the tax landscape for the state, county, and city. Income tax, sales tax, property tax, and corporate taxes can vary significantly from place to place.
+
+In fact, some states are well-known for creating tax environments that are very friendly to certain kinds of companies. That’s part of the reason why tech startups, financial institutions, and manufacturing tend to concentrate in certain areas of the country.
+
+Visit state and local government websites to find out what the tax landscape for your area looks like.
+
+
+State and local government incentives
+
+Some state and local governments offer special tax credits for small businesses. You might also find state-specific small business loans or other financial incentives.
+
+Incentive programs and benefits are often related to job creation, energy efficiency, urban redevelopment, and technology.
+
+Visit local SBA Offices, Small Business Development Centers, Women’s Business Centers state and local government websites to find more information.
+
+
+Federal government incentives
+
+The federal government offers benefits to small businesses that contract with the government and are based in underutilized areas. Check into the Historically Underutilized Business Zones (HUBZone) program to see if you qualify for preferential access to federal procurement opportunities.
+
+Choose a business structure
+Your business structure affects how much you pay in taxes, your ability to raise money, the paperwork you need to file, and your personal liability. 
+
+You’ll need to choose a business structure before you register your business with the state. Most businesses will also need to get a tax ID number and file for the appropriate licenses and permits.
+
+Choose carefully. While you may convert to a different business structure in the future, there may be restrictions based on your location. This could also result in tax consequences and unintended dissolution, among other complications. 
+
+Consulting with business counselors, attorneys, and accountants can prove helpful.
+
+
+Review common business structures
++
+Sole proprietorship
+A sole proprietorship is easy to form and gives you complete control of your business. You’re automatically considered to be a sole proprietorship if you do business activities but don’t register as any other kind of business. 
+
+Sole proprietorships do not produce a separate business entity. This means your business assets and liabilities are not separate from your personal assets and liabilities. You can be held personally liable for the debts and obligations of the business. Sole proprietors are still able to get a trade name. It can also be hard to raise money because you can’t sell stock, and banks are hesitant to lend to sole proprietorships.
+
+Sole proprietorships can be a good choice for low-risk businesses and owners who want to test their business idea before forming a more formal business.
+
+Partnership
+Partnerships are the simplest structure for two or more people to own a business together. There are two common kinds of partnerships: limited partnerships (LP) and limited liability partnerships (LLP).
+
+Limited partnerships have only one general partner with unlimited liability, and all other partners have limited liability. The partners with limited liability also tend to have limited control over the company, which is documented in a partnership agreement. Profits are passed through to personal tax returns, and the general partner — the partner without limited liability — must also pay self-employment taxes.
+
+Limited liability partnerships are similar to limited partnerships, but give limited liability to every owner. An LLP protects each partner from debts against the partnership, they won’t be responsible for the actions of other partners. 
+
+Partnerships can be a good choice for businesses with multiple owners, professional groups (like attorneys), and groups who want to test their business idea before forming a more formal business.
+
+Limited liability company (LLC) 
+An LLC lets you take advantage of the benefits of both the corporation and partnership business structures.
+
+LLCs protect you from personal liability in most instances, your personal assets — like your vehicle, house, and savings accounts — won’t be at risk in case your LLC faces bankruptcy or lawsuits.
+
+Profits and losses can get passed through to your personal income without facing corporate taxes. However, members of an LLC are considered self-employed and must pay self-employment tax contributions towards Medicare and Social Security.
+
+LLCs can have a limited life in many states. When a member joins or leaves an LLC, some states may require the LLC to be dissolved and re-formed with new membership — unless there’s already an agreement in place within the LLC for buying, selling, and transferring ownership.
+
+LLCs can be a good choice for medium- or higher-risk businesses, owners with significant personal assets they want protected, and owners who want to pay a lower tax rate than they would with a corporation.
+
+Corporation
+C corp
+A corporation, sometimes called a C corp, is a legal entity that’s separate from its owners. Corporations can make a profit, be taxed, and can be held legally liable.
+
+Corporations offer the strongest protection to its owners from personal liability, but the cost to form a corporation is higher than other structures. Corporations also require more extensive record-keeping, operational processes, and reporting.
+
+Unlike sole proprietors, partnerships, and LLCs, corporations pay income tax on their profits. In some cases, corporate profits are taxed twice — first, when the company makes a profit, and again when dividends are paid to shareholders on their personal tax returns.
+
+Corporations have a completely independent life separate from its shareholders. If a shareholder leaves the company or sells his or her shares, the C corp can continue doing business relatively undisturbed.
+
+Corporations have an advantage when it comes to raising capital because they can raise funds through the sale of stock, which can also be a benefit in attracting employees.
+
+Corporations can be a good choice for medium- or higher-risk businesses, those that need to raise money, and businesses that plan to “go public” or eventually be sold.
+
+S corp
+An S corporation, sometimes called an S corp, is a special type of corporation that’s designed to avoid the double taxation drawback of regular C corps. S corps allow profits, and some losses, to be passed through directly to owners’ personal income without ever being subject to corporate tax rates.
+
+Not all states tax S corps equally, but most recognize them the same way the federal government does and tax the shareholders accordingly. Some states tax S corps on profits above a specified limit and other states don’t recognize the S corp election at all, simply treating the business as a C corp.
+
+S corps must file with the IRS to get S corp status, a different process from registering with their state.
+
+There are special limits on S corps. Check the IRS website for eligibility requirements. You’ll still have to follow the strict filing and operational processes of a C corp.
+
+S corps also have an independent life, just like C corps. If a shareholder leaves the company or sells his or her shares, the S corp can continue doing business relatively undisturbed.
+
+S corps can be a good choice for a business that would otherwise be a C corp, but meet the criteria to file as an S corp.
+
+Benefit corporation
+A benefit corporation is a for-profit corporation recognized by a majority of U.S. states. Benefit corporations are different from C corps in purpose, accountability, and transparency, but aren’t different in how they’re taxed.
+
+Benefit corporations are driven by both mission and profit. Shareholders hold the company accountable to produce some sort of public benefit in addition to a financial profit. Some states require benefit corporations to submit annual benefit reports that demonstrate their contribution to the public good.
+
+There are several third-party benefit corporation certification services, but none are required for a company to be legally considered one in a state where the legal status is available.
+
+Close corporation
+Close corporations resemble B corps but have a less traditional corporate structure. These shed many formalities that typically govern corporations and apply to smaller companies. 
+
+State rules vary, but shares are usually barred from public trading. Close corporations can be run by a small group of shareholders without a board of directors.
+
+Nonprofit corporation
+Nonprofit corporations are organized to do charity, education, religious, literary, or scientific work. Because their work benefits the public, nonprofits can receive tax-exempt status, meaning they don’t pay state or federal income taxes on any profits it makes.
+
+Nonprofits must file with the IRS to get tax exemption, a different process from registering with their state.
+
+Nonprofit corporations need to follow organizational rules very similar to a regular C corp. They also need to follow special rules about what they do with any profits they earn. For example, they can’t distribute profits to members or political campaigns.
+
+Nonprofits are often called 501(c)(3) corporations — a reference to the section of the Internal Revenue Code that is most commonly used to grant tax-exempt status.
+
+Cooperative
+A cooperative is a business or organization owned by and operated for the benefit of those using its services. Profits and earnings generated by the cooperative are distributed among the members, also known as user-owners. Typically, an elected board of directors and officers run the cooperative while regular members have voting power to control the direction of the cooperative. Members can become part of the cooperative by purchasing shares, though the amount of shares they hold does not affect the weight of their vote.For guidance on deciding which methods are worthwhile for your small business, the U.S. Small Business Administration (SBA) provides counseling services through our resource partner network.
+
+
+Combine different business structures
+
+Designations like S corp and nonprofit aren’t strictly business structures — they can also be understood as a tax status. It’s possible for an LLC to be taxed as a C corp, S corp, or a nonprofit. These arrangements are far less common and can be more difficult to set up. If you’re considering one of these non-standard structures, you should speak with a business counselor or an attorney to help you decide.
+
+
+Compare business structures
+
+Compare the general traits of these business structures, but remember that ownership rules, liability, taxes, and filing requirements for each business structure can vary by state. The following table is intended only as a guideline. Please confer with a business tax specialist to confirm your specific business needs.
+
+Business structure	Ownership	Liability	Taxes
+Sole proprietorship	One person	Unlimited personal liability	Self-employment tax
+
+Personal tax
+Partnerships	Two or more people	Unlimited personal liability unless structured as a limited partnership	Self-employment tax (except for limited partners)
+
+Personal tax
+Limited liability company (LLC)	One or more people	Owners are not personally liable	Self-employment tax
+
+Personal tax or corporate tax
+Corporation – C corp	One or more people	Owners are not personally liable	Corporate tax
+Corporation – S corp	100 people or fewer; certain trusts and estates; no partnerships, corporations, or non-resident aliens	Owners are not personally liable	Personal tax
+Corporation – benefit corporation	One or more people	Owners are not personally liable	Corporate tax
+Corporation – Nonprofit	One or more people	Owners are not personally liable	Tax-exempt, but corporate profits can’t be distributed
+Choose your business name
+You can find the right business name with creativity and market research. Once you’ve picked your name, you should protect it by registering it with the right agencies.
+
+
+Register your business name to protect it
+
+You’ll want to choose a business name that reflects your brand identity and doesn’t clash with the types of goods and services you offer.
+
+Once you settle on a name you like, you need to protect it. There are four different ways to register your business name. Each way of registering your name serves a different purpose, and some may be legally required depending on your business structure and location.
+
+Entity name protects you at a state level
+Trademark protects you at a federal level
+Doing business as (DBA) doesn’t give legal protection, but it might be legally required
+Domain name protects your business website address
+Each of these name registrations are legally independent. Most small businesses try to use the same name for each kind of registration, but you’re not normally required to.
+
+
+Four different ways to register your business name
+
+Entity name
+An entity name can protect the name of your business at a state level. Depending on your business structure and location, the state may require you to register a legal entity name.
+
+Your entity name is how the state identifies your business. Each state may have different rules about what your entity name can be and usage of company suffixes. Most states don’t allow you to register a name that’s already been registered by someone else, and some states require your entity name to reflect the kind of business it represents.
+
+In most cases, your entity name registration protects your business and prevents anyone else in the state from operating under the same entity name. However, there are exceptions pertaining to state and business structure.
+
+Check with your state for rules about how to register your business name.
+
+Trademark
+A trademark can protect the name of your business, goods, and services at a national level. Trademarks prevent others in the same (or similar) industry in the United States from using your trademarked names.
+
+For example, if you were an electronics company and wanted to call your business Springfield Electronic Accessories and one of your products Screen Cover 5000, trademarking those names would prevent other electronics businesses or similar products from using those same names.
+
+Businesses in every state are subject to trademark infringement lawsuits, which can prove costly. That’s why you should check your prospective business, product, and service names against the official trademark database, maintained by the United States Patent and Trademark Office.
+
+Doing business as (DBA) name
+You might need to register your DBA — also known as a trade name, fictitious name, or assumed name — with the state, county, or city your business is located in. Registering your DBA name doesn’t provide legal protection by itself, but most states require you to register your DBA if you use one. Some business structures require you to use a DBA.
+
+Even if you’re not required to register a DBA, you might want to anyway. A DBA lets you conduct business under a different identity from your own personal name or your formal business entity name. As an added bonus, getting a DBA and federal tax ID number (EIN) allows you to open a business bank account.
+
+Multiple businesses can go by the same DBA in one state, so you’re less restricted in what you can choose. There’s also more leeway in the clarity of business function. For example, a small business owner could use Springfield Electronic Accessories for their entity name but use TechBuddy for their DBA. Just remember that trademark infringement laws will still apply.
+
+Determine your DBA requirements based on your specific location. Requirements vary by business structure as well as by state, county, and municipality, so check with local government offices and websites.
+
+Domain name
+If you want an online presence for your business, start by registering a domain name — also known as your website address, or URL.
+
+Once you register your domain name, no one else can use it for as long as you continue to own it. It’s a good way to protect your brand presence online.
+
+If someone else has already registered the domain you wanted to use, that’s okay. Your domain name doesn’t actually need to be the same as your legal business name, trademark, or DBA. For example, Springfield Electronic Accessories could register the domain name techbuddyspringfield.com.
+
+You’ll register your domain name through a registrar service. Consult a directory of accredited registrars to determine which ones are safe to use, and then pick one that offers you the best combination of price and customer service. You’ll need to renew your domain registration on a regular basis.
+
+Register your business
+Register your business to make it a distinct legal entity. How and where you need to register depends on your business structure and business location.
+
+
+Find out if you need to register your business
++
+Your location and business structure determine how you’ll need to register your business. Determine those factors first, and registration becomes very straightforward.
+
+For most small businesses, registering your business is as simple as registering your business name with state and local governments.
+
+In some cases, you don’t need to register at all. If you conduct business as yourself using your legal name, you won’t need to register anywhere. But remember, if you don’t register your business, you could miss out on personal liability protection, legal benefits, and tax benefits.
+
+
+Register with federal agencies
+
+Beneficial ownership information (BOI) reporting
+Many companies in the United States have to report information about their beneficial owners – the individuals who ultimately own or control the company. This report is made to the Financial Crimes Enforcement Network (FinCEN). FinCEN is a bureau of the U.S. Department of the Treasury. BOI reporting is a requirement of the Corporate Transparency Act of 2021.
+
+Companies that are required to comply are called reporting companies. The majority of reporting companies must file their initial, updated or corrected reports by March 21, 2025. For additional information, refer to FinCEN’s BOI notice (PDF).
+
+Beneficial ownership information reporting is not an annual requirement. A report only needs to be submitted once, unless the filer needs to update or correct information. FinCEN’s E-Filing system is simple, secure, and free of charge. Learn more about beneficial ownership information reporting at www.fincen.gov/boi.
+
+Other reporting requirements
+Other business reporting requirements depend on the nature of your business. Most businesses will need to file to get a federal tax ID. Small businesses sometimes have to register with the federal government for trademark protection or tax-exempt status.
+
+If you want to trademark your business, brand or product name, file with the United States Patent and Trademark office once you’ve formed your business.
+If you want tax-exempt status for a nonprofit corporation, register your business as a tax-exempt entity with the IRS.
+To create an S corp, you’ll need to file form 2553 with the IRS.
+
+Register with state agencies
+
+If your business is a limited liability company (LLC), corporation, partnership, or nonprofit corporation, you’ll probably need to register with any state where you conduct business activities.
+
+Typically, you’re considered to be conducting business activities in a state when:
+
+Your business has a physical presence in the state
+You often have in-person meetings with clients in the state
+A significant portion of your company’s revenue comes from the state
+Any of your employees work in the state
+Some states allow you to register online, and some states make you file paper documents in person or through the mail.
+
+Most states require you to register with the Secretary of State’s office, a Business Bureau, or a Business Agency.
+
+Look up your state
+Find out where to register your small business in your state.
+
+Get a registered agent
+If your business is an LLC, corporation, partnership, or nonprofit corporation, you’ll need a registered agent in your state before you file.
+
+A registered agent receives official papers and legal documents on behalf of your company. The registered agent must be located in the state where you register.
+
+Many business owners prefer to use a registered agent service rather than take on this role themselves.
+
+File for foreign qualification
+If your LLC, corporation, partnership, or nonprofit corporation conducts business activities in more than one state, you might need to form your business in one state and then file for foreign qualification in other states where your business is active.
+
+The state where you form your business will consider your business to be domestic, while every other state will view your business as foreign. Foreign qualification notifies the state that a foreign business is active there.
+
+Foreign qualified businesses typically need to pay taxes and annual report fees in both their state of formation and states where they’re foreign qualified.
+
+To foreign qualify, file a Certificate of Authority with the state. Many states also require a Certificate of Good Standing from your state of formation. Each state charges a filing fee, but the amount varies by state and business structure.
+
+Check with state offices to find out foreign qualification requirements and fees.
+
+File state documents and fees
+In most cases, the total cost to register your business will be less than $300, but fees vary depending on your state and business structure.
+
+The information you’ll need typically includes:
+
+Business name
+Business location
+Ownership, management structure, or directors
+Registered agent information
+Number and value of shares (if you’re a corporation)
+The documents you need — and what goes in them — will vary based on your state and business structure.
+
+Business structure	Document	Description
+LLC	Articles of organization	Articles of organization is a simple document that describes the basics of your LLC. It includes business information like the company name, address, member names, and the registered agent.
+LLC	LLC operating agreement	An operating agreement describes the structure of your company’s financial and functional decisions. It defines how key business decisions are made, as well as each member’s duties, powers, and responsibilities. It’s widely recommended to create one to protect yourself and your business, even if your state doesn’t mandate it.
+Limited partnership	Certificate of limited partnership	This simple document describes the basics of your limited partnership. It notifies the state of the partnership’s existence and contains basic business information like the company name, address, and partner names. Not all states require it, and some states call it by a different name.
+Limited partnership	Limited partnership agreement	A limited partnership agreement is an internally binding document between all partners that defines how business decisions get made, each partner’s duties, powers, and responsibilities. It’s widely recommended to create one to protect yourself and your business, even if your state doesn’t mandate it.
+Limited liability partnership	Certificate of limited liability partnership	This simple document describes the basics of your limited liability partnership. It notifies the state of the partnership’s existence and contains basic business information like the company name, address, and partner names. Not all states require it, and some states call it by a different name.
+Limited liability partnership	Limited liability partnership agreement	A limited liability partnership agreement is an internally binding document between all partners that defines how business decisions get made, each partner’s duties, powers, and responsibilities. It’s widely recommended to create one to protect yourself and your business, even if your state doesn’t mandate it.
+Corporation (any kind)	Articles of incorporation	The articles of incorporation — or a certificate of incorporation — is a comprehensive legal document that lays out the basic outline of your business. It’s required by every state when you incorporate. The most common information included is the company name, business purpose, number of shares offered, value of shares, directors, and officers.
+Corporation (any kind)	Bylaws or resolutions	Bylaws (called resolutions for nonprofits) are the internal governance documents of a corporation. They define how key business decisions are made, as well as officer and shareholders’ duties, powers, and responsibilities. It’s widely recommended to create one to protect yourself and your business, even if your state doesn’t mandate it.
+In addition, some states also require you to register your DBA — a trade name or a fictitious name — if you use one. Check with your state government office to determine what’s required in your area.
+
+
+Register with local agencies
+
+Typically, you don’t need to register with county or city governments to actually form your business.
+
+If your business is an LLC, corporation, partnership, or nonprofit corporation, you might need to file for licenses and permits from the county or city.
+
+Some counties and cities also require you to register your DBA — a trade name or a fictitious name — if you use one.
+
+Local governments determine registration, licensing, and permitting requirements, so visit local government websites to find out what you need to do.
+
+
+Stay up to date with registration requirements
+
+Some states require you to provide reports soon after registering depending on your business structure.
+
+You may need to file additional documentation with your state tax board or franchise tax board. These filings are typically referred to as Initial Reports or Tax Board registration, and most often need to be filed within 30-90 days after you register with the state.  
+
+Check with your local tax office or franchise tax board, if it applies to you.
+
+Get federal and state tax ID numbers
+Your state tax ID and federal tax ID numbers — also known as an Employer Identification Number (EIN) — work like a personal social security number, but for your business. They let your small business pay state and federal taxes.
+
+
+Get a federal tax ID number
+
+Your Employer Identification Number (EIN) is your business’s federal tax ID number. You need it to pay federal taxes, hire employees, open a bank account, and apply for business licenses and permits.
+
+It’s free to apply for an EIN, and you should do it right after you register your business.
+
+Your business needs a federal tax ID number if it does any of the following:
+
+Pays employees
+Operates as a corporation or partnership
+Files tax returns for employment, excise, or alcohol, tobacco, and firearms
+Withholds taxes on income, other than wages, paid to a non-resident alien
+Uses a Keogh Plan (a tax-deferred pension plan)
+Works with certain types of organizations
+You can apply and receive an EIN immediately using the IRS assistance tool. It will guide you through questions and ask for your name, social security number or taxpayer ID number, and business structure. If you are a third-party, you will also need signed authorization to apply. Your nine-digit federal tax ID becomes available immediately upon verification. Do not apply for an EIN on websites that charge a fee – the EIN application is free of cost.
+
+Change or replace your EIN
+If you already have an EIN, you might have to change or replace it with a new one if certain changes have occurred with your business, depending on your business structure and the kind of change that occurred. In general, you need a new EIN when your business’s ownership or structure changes. Check with the IRS to determine exactly whether you need to change or replace your EIN.
+
+Deactivate your EIN
+An EIN cannot be canceled as it is an assigned, permanent federal ID number. However, if you no longer need your EIN, the IRS can deactivate it if your organization is not exempt, and you have filed all outstanding tax returns and paid any taxes owed. Both SBA and the IRS have guidance on closing or selling your business. 
+
+Receiving an EIN you didn’t request
+Occasionally, someone may request an EIN on your behalf for a legitimate business reason. If you receive a notice for an EIN that isn’t yours, the IRS recommends that:
+
+You first confirm that it was not a legitimate request on your behalf.
+If you confirm that it was not requested on your behalf, report it using the IRS’s Business Identity Theft Affidavit (PDF).
+If your EIN was stolen, follow the IRS’s steps to report business identity theft.
+
+Get a state tax ID number
+
+The need for a state tax ID number ties directly to whether your business must pay state taxes. Sometimes, you can use state tax ID numbers for other functions, like protection against identity theft for sole proprietors.
+
+Tax obligations differ at the state and local levels, so you’ll need to check with your state’s websites.
+
+To know whether you need a state tax ID, research and understand your state’s laws regarding income taxes and employment taxes, the two most common forms of state taxes for small businesses.
+
+The process to get a state tax ID number is similar to getting a federal tax ID number, but it will vary by state. You’ll have to check with your state government for specific steps.
+
+State income and employment taxes for businesses
+Seven states have no income tax, and another two only impose tax on income from dividends. States that do tax income will determine figures based on business structure.
+
+Taxes also vary by state on employment insurance and workers’ compensation insurance. Understand these and other implications in calculating startup costs and choosing a business structure.
+
+Visit your state’s Department of Revenue website to identify whether you need to get a state tax ID number in order to pay state taxes.
+
+Apply for licenses and permits
+The requirements and fees vary based on your business activities, location, and government rules.
+
+
+Federal licenses and permits
+
+Most small businesses need a combination of licenses and permits from both federal and state agencies. Business activities regulated by a federal agency will need a federal license or permit.
+
+Check to see if any of your business activities are listed here. If they are, then check with the right federal agency to see how to apply.
+
+Requirements and fees depend on your business activity and the issuing agency. Check with them for details on the business license cost.
+
+Business activity	Description	Issuing agency
+Agriculture	The import or transport across state lines of: Animals; Animal products; Biologics; Biotechnology or plants	U.S. Department of Agriculture
+Alcoholic beverages	Manufacture
+Wholesale
+Import
+Sale at a retail location	Alcohol and Tobacco Tax and Trade Bureau
+Local Alcohol Beverage Control Board
+Aviation	Aircraft operation
+Transport of goods or people via air
+Aircraft maintenance	Federal Aviation Administration
+Firearms, ammunition, and explosives	Manufacture
+Sale
+Import	Bureau of Alcohol, Tobacco, Firearms and Explosives
+Fish and wildlife	Any wildlife-related activity, including the import or export of wildlife
+Import/export of wildlife-derivative products	U.S. Fish and Wildlife Service
+Commercial fisheries	Commercial fishing of any kind	National Oceanic and Atmospheric Administration Fisheries Service
+Maritime transportation	Transport of people by sea
+Shipment of cargo by sea	Federal Maritime Commission
+Mining and drilling	Drilling for natural gas, oil, or other mineral resources on federal lands	Bureau of Safety and Environmental Enforcement
+Nuclear energy	Production of commercial nuclear energy
+Operation as a fuel cycle facility
+Distribution and disposal of nuclear materials	U.S. Nuclear Regulatory Commission
+Radio and television broadcasting	Information broadcasts via: Radio; Television; Wire; Satellite; Cable	Federal Communications Commission
+Transportation and logistics	Operation of an oversize or overweight vehicle (Permits are issued by your state government, but the U.S. Department of Transportation can direct you to the correct state office)	U.S. Department of Transportation
+
+State licenses and permits
+
+The licenses and permits you need from the state, county, or city will depend on your business activities and business location. Your business license fees will also vary. You may also need licenses from your county or city.
+
+States tend to regulate a broader range of activities than the federal government. Business activities that are commonly regulated at the local level include:
+
+Auctions
+Construction
+Dry cleaning
+Farming
+Plumbing
+Restaurants
+Retail
+Vending machines
+Some licenses and permits expire after a set period of time. Keep close track of when you need to renew them — it’s often easier to renew than it is to apply for a new one.
+
+You’ll have to research your own state, county, and city regulations. Industry requirements often vary by state. Visit your Secretary of State’s website to find out which permits and licenses you need. 
+
+Open a business bank account
+Open a business account when you’re ready to start accepting or spending money as your business. A business bank account helps you stay legally compliant and protected. It also provides benefits to your customers and employees.
+
+
+Benefits of business bank accounts
+
+As soon as you start accepting or spending money as your business, you should open a business bank account. Common business accounts include a checking account, savings account, credit card account, and a merchant services account. Merchant services accounts allow you to accept credit and debit card transactions from your customers.
+
+You can open a business bank account once you’ve gotten your federal EIN. 
+
+Most business bank accounts offer perks that don’t come with a standard personal bank account. 
+
+Protection. Business banking offers limited personal liability protection by keeping your business funds separate from your personal funds. Merchant services also offer purchase protection for your customers and ensures that their personal information is secure. 
+Professionalism. Customers will be able to pay you with credit cards and make checks out to your business instead of directly to you. Plus, you’ll be able to authorize employees to handle day-to-day banking tasks on behalf of the business.
+Preparedness. Business banking usually comes with the option for a line of credit for the company. This can be used in the event of an emergency, or if your business needs new equipment.
+Purchasing power. Credit card accounts can help your business make large startup purchases and help establish a credit history for your business. 
+Product/trade name franchising: The franchisor owns the right to the name or trademark of a business, and sells the right to use that name and trademark to a franchisee. This style of franchising normally focuses on supply chain management. Typically, products are manufactured or supplied by the franchisor and delivered to the franchisee to sell.
+Business format franchising: The franchisor and franchisee have an ongoing relationship. This style of franchising normally focuses on full-spectrum business management. Typically, the franchisor offers services like site selection, training, product supply, marketing plans, and even help getting funding.
+When you buy a franchise, you get the right to use the name, logo, and products of a larger brand. You’ll also get to benefit from brand recognition, promotions, and marketing. But, it also means you have to follow rules from the larger brand about how you run your business.
+
+Buying an existing business gives you more control but less guidance
+Buying an existing business is exactly what it sounds like. The buyer typically takes over full ownership of the business. The largest advantage is having an existing blueprint that can include important factors like an established customer base, defined operating expenses, and fully trained employees. Regardless of business type, almost any kind of business could be bought or sold.
+
+When you buy an existing business, you typically get complete control over its direction. However, with no set vision, infrastructure, or external guidance, your business could struggle as you figure out the best way to run things. SBA’s Surety Bond Guarantee (SBG) Program enables surety companies and agents to issue bonds backed by the SBA. This helps small businesses obtain contract surety when they might otherwise face barriers.
+
+
+Find an account with low fees and good benefits
+
+Some business owners open a business account at the same bank they use for their personal accounts. Rates, fees, and options vary from bank to bank, so you should shop around to make sure you find the lowest fees and the best benefits.
+
+Here are things to consider when you’re opening a business checking or savings account:
+
+Introductory offers
+Interest rates for savings and checking
+Interest rates for lines of credit
+Transaction fees
+Early termination fees
+Minimum account balance fees
+Here are things to consider when you’re opening a merchant services account:
+
+Discount rate: The percentage charged for every transaction processed
+Transaction fees: The amount charged for every credit card transaction
+Address Verification Service (AVS) fees
+ACH daily batch fees: Fees charged when you settle credit card transactions for that day
+Monthly minimum fees: Fees charged if your business doesn’t meet the minimum required transactions
+Payment processing companies are an increasingly popular alternative to traditional merchant services accounts. Payment processing companies sometimes provide extra functionality, like accessories that let you use your phone to accept credit card payments. The fee categories that you need to consider will be similar to merchant services account fees. If you find a payment processor that you like, remember that you’ll still need to connect it to a business checking account to receive payments.
+
+
+Get documents you need to open a business bank account
+
+Opening a business bank account is easy once you’ve picked your bank. Simply go online or to a local branch to begin the process. Here are some of the most common documents banks ask for when you open a business bank account. Some banks may ask for more.
+
+Employer Identification Number (EIN) (or a Social Security number, if you’re a sole proprietorship)
+Your business’s formation documents
+Ownership agreements
+Business license
+Get business insurance
+Starting a business from scratch can be challenging. Franchising or buying an existing business can simplify the initial planning process.
+
+
+Pick the type of business insurance you need
++
+You get some protections from the kind of business structure you choose.  A limited liability company (LLC) or a corporation status can protect your personal property from lawsuits. However, that protection has limits.
+
+Unexpected catastrophe? Business insurance can fill in any gaps in coverage. This will make sure both your personal and business assets are fully protected.
+
+You also may be legally required to purchase certain types of business insurance.
+
+The federal government requires every business with employees to have the following:
+
+Workers’ compensation 
+Unemployment
+Disability insurance
+Some states also require additional insurance. Laws requiring insurance vary by state. Visit your state’s website to find out the requirements for your business.  
+
+
+Six common types of business insurance
+
+After you purchase insurance that’s required by law, you can find insurance to cover any other business risk. As a general rule, you should insure against things you wouldn’t be able to pay for on your own.
+
+Speak to insurance agents to find out what kinds of coverage makes sense for your business. Then compare terms and prices to find the best deal for you. Here are six common kinds of business insurance to look for:
+
+Insurance type	Who it’s for	What it does
+General liability insurance	Any business	This coverage protects against financial loss as the result of bodily injury, property damage, medical expenses, libel, slander, defending lawsuits, and settlement bonds or judgments.
+Product liability insurance	Businesses that manufacture, wholesale, distribute, and retail a product	This coverage protects against financial loss as a result of a defective product that causes injury or bodily harm.
+Professional liability insurance	Businesses that provide services to customers	This coverage protects against financial loss as a result of malpractice, errors, and negligence.
+Commercial property insurance	Businesses with a significant amount of property and physical assets	This coverage protects your business against loss and damage to company property due to a wide variety of events. These include fire, smoke, wind and hailstorms, civil disobedience and vandalism.
+Home-based business insurance	Businesses that are run out of the owner’s personal home	Coverage that’s added to homeowner’s insurance as a rider can offer protection for a small amount of business equipment and liability coverage for third-party injuries.
+Business owner’s policy	Most small business owners, but especially home-based business owners	A business owner’s policy is an insurance package that combines all of the typical coverage options into one bundle. They simplify the insurance buying process and can save you money.
+
+Four steps to buy business insurance
+
+Assess your risks. Think about what kind of accidents, natural disasters, or lawsuits could damage your business. Is your business located in a commercial area that is at risk from seasonal events? Commercial property insurance will help protect against loss.
+Find a reputable licensed agent. Commercial insurance agents can help you find policies that match your business needs. They receive commissions from insurance companies when they sell policies, so it’s important to find a licensed agent that’s interested in your needs as much as his or her own.
+Shop around. Prices and benefits can vary significantly. You should compare rates, terms, and benefits for insurance offers from several different agents.

@@ -1,0 +1,909 @@
+Manage your finances
+Accounting for revenue and expenses can help keep your business running smoothly. Make sure you maintain proper bookkeeping and have a basic knowledge of business finances.
+
+
+Start with a balance sheet
+
+The balance sheet is the foundation of managing your finances. It operates as a snapshot of your business financials. It helps you keep track of your capital and provide a cash flow projection for future years.
+
+A balance sheet will help you account for costs like employees and supplies. It will also help you track assets, liabilities, and equity. You can get insights by separating and analyzing segments of your business, like comparing online sales to face-to-face sales.
+
+Cost-benefit analysis (CBA)
+Looking closely at money-in and money-out helps maintain a sustainable balance between profit and loss. From development and operations to recurring and nonrecurring costs, it’s important to categorize expenses in your balance sheet. Then, you can use a cost-benefit analysis, or a process that helps weigh the strengths and weaknesses of a business decision, and put potential recurring benefits and cost reductions in context.
+
+A CBA is a technique for making non-critical choices in a relatively quick and easy way. It simply involves adding money in benefits and money in costs over a specified time period, before subtracting costs from benefits to determine success in terms of dollars. This can come in handy with hiring another employee or an independent contractor.
+
+For example, let’s say you’re deciding whether to add outdoor seating for your sausage themed restaurant, Haute Dog. You estimate outdoor seating would add $5,000 in extra profit from sales each year. But, the outdoor seating permit costs $1,000 each year, and you’d also have to spend $2,000 to buy outdoor tables and chairs. Your cost-benefit analysis shows that you should add outdoor seating, because the new benefits ($5,000 in new sales) outweigh the new costs ($3,000 in permitting and equipment expenses).
+
+
+Pick a method of accounting
+
+Businesses often use either the accrual or cash methods of recording purchases. The accrual method puts transactions on the books immediately upon completing the sale. The cash method only records this once payment has been received.
+
+For example, if you make a sale in January and receive the $200 payment in February, an accrual method would allow you to record that on January’s books, while the cash method would require that payment to land on February’s books.
+
+Method	Pros	Cons
+Accrual	Creates immediate snapshot.
+
+Can reduce tax burden.	More complex to manage.
+
+Potentially deceiving figures.
+Cash	Shows cash flow clearly.
+
+Easier to understand.	Limits predictive value.
+
+Less long-term clarity.
+GAAP
+There are many strategies for preparing financial statements for a small business. Generally accepted accounting principles, known as GAAP or “Gap,” provides a common a way to standardize financial reporting using the accrual method. Private companies aren’t required to follow GAAP. The Financial Accounting Standards Board (FASB) maintains GAAP in the United States.
+
+
+Get accounting help
+
+You might want to get help with your accounting. Consider hiring a certified public accountant (CPA), bookkeeper, or using an online service.
+
+A CPA will typically cost more than online services, but can normally offer more tailored service for your specific business needs. A bookkeeper can provide basic day-to-day functions at a lower cost, but won’t possess the formal accounting education of a CPA.
+
+Ensure that someone can manage the following:
+
+Accounts receivable
+Accounts payable
+Available cash
+Bank reconciliation
+Payroll
+Hire and manage employees
+Establish a basic payroll structure to help you hire employees. Then, manage employees properly with a general understanding of state and federal labor laws.
+
+
+Hire and pay employees
+
+Before finding the right person for the job, you’ll need to create a plan for paying employees. Follow these steps to set up payroll:
+
+Get an Employer Identification Number (EIN)
+Find out whether you need state or local tax IDs
+Decide if you want an independent contractor or an employee
+Ensure new employees return a completed W-4 form
+Schedule pay periods to coordinate tax withholding for IRS
+Create a compensation plan for holiday, vacation and leave
+Choose an in-house or external service for administering payroll
+Decide who will manage your payroll system
+Know which records must stay on file and for how long
+Report payroll taxes as needed on quarterly and annual basis
+
+File taxes with employees or independent contractors
+
+Distinguishing between employees and independent contractors can impact your bottom line, or your total revenue once expenses have been deducted. Your bottom line ultimately impacts how you withhold taxes and helps you stay legally compliant during tax season. Learn the differences before hiring your first employee.
+
+An independent contractor operates under a separate business name from your company and invoices for the work they’ve completed. Independent contractors can sometimes qualify as employees in a legal sense. The Equal Employment Opportunity Commission guide breaks things down so you can make a more informed decision.
+
+If your contractor is discovered to meet the legal definition of employee, you may need to pay back taxes and penalties, provide benefits, and reimburse for wages stipulated under the Fair Labor Standards Act.
+
+
+Build your team
+
+John and Kelly need to establish a payroll structure to hire employees to work at their auto repair shop.
+John and Kelly need to establish a payroll structure to hire employees to work at their auto repair shop.
+
+They write descriptions for each position they want to fill — clearly defining the responsibilities of each role and the qualifications needed — and post the openings on popular job boards online.
+
+John and Kelly set wages for each position, at least meeting their state’s minimum wage requirement.
+
+Each new employee completes a W-4 form, which John and Kelly submit to the IR.S. (The IRS requires businesses to keep records of employment taxes for at least four years.) They also complete Form I-9, which requires John and Kelly to examine documents to confirm the employee’s citizenship or eligibility to work in the U.S. (They don’t have to submit this form to the federal government, but they do have to keep them on file.)
+
+John and Kelly contact their state tax office to learn about their state tax obligations. They also report their new employees to their state directory within 20 days of the employee hire date, as required by their state.
+
+John and Kelly pay for an online payroll service, which automatically calculates how much their employees should be paid each pay period, accounting for tax deductions.
+
+John and Kelly have hired employees and established tax records, and have a system in place to pay their employees.
+
+
+Plan to offer employee or independent contractors
+
+Healthcare and other benefits play a significant role in hiring and retaining employees. Some employee benefits are required by law, but others are optional.
+
+Required employee benefits
+Social Security taxes: Employers must pay Social Security taxes at the same rate as their employees.
+Workers’ Compensation: Required through a commercial carrier, self-insured basis, or state Workers’ Compensation Program.
+Disability Insurance: Disability pay is required in California, Hawaii, New Jersey, New York, Rhode Island and Puerto Rico.
+Leave benefits: Most leave benefits are optional outside those stipulated in the Family and Medical Leave Act (FMLA).
+Unemployment insurance: Varies by state, and you may need to register with your state workforce agency.
+Optional employee benefits
+Your small businesses can offer a complete range of optional benefits to help attract and retain employees. Even if a benefit you offer is optional, it might still have to comply with certain laws if you choose to offer it.
+
+Businesses that offer group health plans must comply with federal laws. You can read more about those laws in the Department of Labor’s advisory guide.
+
+Employees can expand coverage through the Affordable Care Act and some may qualify for benefits via the Consolidated Omnibus Budget Reconciliation Act (COBRA). Businesses must extend the option of COBRA benefits to employees who are terminated or laid off. For more information and resources to help small businesses make decisions about health insurance coverage, visit HealthCare.gov.
+
+Retirement plans are a very popular employee benefit. Consider offering an employer-sponsored plan like a 401k or a pension plan. The federal government offers a wide range of resources to aid small business owners in choosing their retirement plan and pension.
+
+Employee incentive programs
+Employee incentive programs can boost morale and create more draw for open positions. Common incentives include stock options, flex time, wellness programs, corporate memberships, and company events.
+
+If your budget allows, you may want to consider investing in benefits administration software to make your accounting process easier and more efficient. Detailing these benefits in the employee handbook helps your staff make decisions, and they can use it as a reference for workplace requirements.
+
+
+Follow federal and state labor laws
+
+Protect workers’ rights and your business by adhering to labor laws, which means you must ensure that business practices align with industry regulations.
+
+This includes learning applicable laws for hiring veterans, foreign workers, household employees, child labor and people with disabilities, among other groups. You must also comply when terminating an employee, laying off workers, or downsizing the company.
+
+Consult the Department of Labor’s federal and state law resources.
+
+Pay taxes
+Your business will need to meet its federal, state, and local tax obligations to stay in good legal standing. Your business structure and location will influence which taxes your business has to pay.
+
+
+Choose your tax year
+
+If you don’t have special accounting needs for your business, choose a calendar tax year.
+If you want your 12-month accounting cycle to end in a month that isn’t December, choose a fiscal tax year.
+If your business wasn’t in existence for an entire tax year, or you changed your accounting period, choose a short tax year.
+If your business doesn’t have much reporting or bookkeeping, you might be required to use a calendar tax year. Check with the IRS for detailed rules about tax years.
+
+
+Determine your state tax obligations
+
+Your business might need to pay state and local taxes. Tax laws vary by location and business structure, so you’ll need to check with state and local governments to know your business’ tax obligations.
+
+The two most common types of state and local tax requirements for small business are income taxes and employment taxes.
+
+Your state income tax obligations are determined by your business structure. For example, corporations are taxed separately from the owners, while sole proprietors report their personal and business income taxes using the same form.
+
+If your business has employees, you’ll be responsible for paying state employment taxes. These vary by state, but often include workers’ compensation insurance, unemployment insurance taxes, and temporary disability insurance. You might also be responsible for withholding employee income tax. Check with your state tax authority listed below to find out how much you need to withhold and when you need to send it to the state.
+
+State	State Department of Revenue
+Alabama	Alabama Department of Revenue
+Alaska	Alaska Department of Revenue
+Arizona	Arizona Department of Revenue
+Arkansas	Arkansas Department of Finance and Administration
+California	California Tax Service Center
+Colorado	Colorado Department of Revenue
+Connecticut	Connecticut Department of Revenue Services
+Delaware	Delaware One Stop
+Florida	Florida Department of Revenue
+Georgia	Georgia Department of Revenue
+Hawaii	Hawai‘i Business Express
+Idaho	Idaho Business Registration System
+Illinois	Illinois Department of Revenue
+Indiana	Indiana Department of Revenue
+Iowa	Iowa Department of Revenue
+Kansas	Kansas Department of Revenue
+Kentucky	Kentucky Department of Revenue
+Louisiana	Louisiana Department of Revenue
+Maine	Maine Revenue Services
+Maryland	Comptroller of Maryland
+Massachusetts	MassTaxConnect
+Michigan	Michigan Department of Treasury
+Minnesota	Minnesota Department of Revenue
+Mississippi	Mississippi Department of Revenue
+Missouri	Missouri Department of Revenue
+Montana	Montana Department of Revenue
+Nebraska	Nebraska Department of Revenue
+Nevada	Nevada Department of Taxation
+New Hampshire	New Hampshire Department of Revenue Administration
+New Jersey	New Jersey Department of Revenue
+New Mexico	New Mexico Taxation and Revenue Department
+New York	New York Department of Taxation and Finance
+North Carolina	North Carolina Department of Revenue
+North Dakota	North Dakota Office of State Tax Commissioner
+Ohio	Ohio Business Gateway
+Oklahoma	Oklahoma Tax Commission
+Oregon	Oregon Business Xpress
+Pennsylvania	Pennsylvania Department of Revenue
+Rhode Island	Rhode Island Division of Taxation
+South Carolina	South Carolina Department of Revenue
+South Dakota	South Dakota Department of Revenue
+Tennessee	Tennessee Department of Revenue
+Texas	Texas Comptroller of Public Accounts
+Utah	Utah State Tax Commission
+Vermont	Vermont Department of Taxes
+Virginia	Virginia Department of Taxation
+Washington	Washington Department of Revenue
+West Virginia	West Virginia State Tax Department
+Wisconsin	Wisconsin Department of Revenue
+Wyoming	Wyoming Department of Revenue
+District of Columbia	District of Columbia Office of Tax and Revenue
+American Samoa	American Samoa Tax Office
+Guam	Guam Department of Revenue and Taxation
+Northern Mariana Islands	CNMI Division of Revenue and Taxation
+Puerto Rico	Departamento de Hacienda de Puerto Rico
+United States Minor Outlying Islands	No contacts.
+Virgin Islands, U.S.	No contacts.
+
+Determine your federal tax obligations
+
+An entity name can protect the name of your business at a state level. Depending on your business structure and location, the state may require you to register a legal entity name.
+
+Your entity name is how the state identifies your business. Each state may have different rules about what your entity name can be and usage of company suffixes. Most states don’t allow you to register a name that’s already been registered by someone else, and some states require your entity name to reflect the kind of business it represents.
+
+In most cases, your entity name registration protects your business and prevents anyone else in the state from operating under the same entity name. However, there are exceptions pertaining to state and business structure.
+
+Check with your state for rules about how to register your business name.
+
+Trademark
+A trademark can protect the name of your business, goods, and services at a national level. Trademarks prevent others in the same (or similar) industry in the United States from using your trademarked names.
+
+For example, if you were an electronics company and wanted to call your business Springfield Electronic Accessories and one of your products Screen Cover 5000, trademarking those names would prevent other electronics businesses or similar products from using those same names.
+
+Businesses in every state are subject to trademark infringement lawsuits, which can prove costly. That’s why you should check your prospective business, product, and service names against the official trademark database, maintained by the United States Patent and Trademark Office.
+
+Doing business as (DBA) name
+You might need to register your DBA — also known as a trade name, fictitious name, or assumed name — with the state, county, or city your business is located in. Registering your DBA name doesn’t provide legal protection by itself, but most states require you to register your DBA if you use one. Some business structures require you to use a DBA.
+
+Even if you’re not required to register a DBA, you might want to anyway. A DBA lets you conduct business under a different identity from your own personal name or your formal business entity name. As an added bonus, getting a DBA and federal tax ID number (EIN) allows you to open a business bank account.
+
+Multiple businesses can go by the same DBA in one state, so you’re less restricted in what you can choose. There’s also more leeway in the clarity of business function. For example, a small business owner could use Springfield Electronic Accessories for their entity name but use TechBuddy for their DBA. Just remember that trademark infringement laws will still apply.
+
+Determine your DBA requirements based on your specific location. Requirements vary by business structure as well as by state, county, and municipality, so check with local government offices and websites.
+
+Domain name
+If you want an online presence for your business, start by registering a domain name — also known as your website address, or URL.
+
+Once you register your domain name, no one else can use it for as long as you continue to own it. It’s a good way to protect your brand presence online.
+
+If someone else has already registered the domain you wanted to use, that’s okay. Your domain name doesn’t actually need to be the same as your legal business name, trademark, or DBA. For example, Springfield Electronic Accessories could register the domain name techbuddyspringfield.com.
+
+You’ll register your domain name through a registrar service. Consult a directory of accredited registrars to determine which ones are safe to use, and then pick one that offers you the best combination of price and customer service. You’ll need to renew your domain registration on a regular basis.
+
+Stay legally compliant
+Keep your business compliant with state and federal business laws. Your legal responsibilities will depend on your business and location.
+
+
+Internal requirements
+
+To stay legally compliant, you’ll need to meet external and internal business compliance requirements. Most external requirements involve filing paperwork or paying taxes with state or federal governments.
+
+Internal business requirements are for your own record keeping. You should document your compliance with internal requirements closely with company records. You might need them when you decide to sell your business or if a legal action is taken against your business.
+
+Requirements by business structure
+Corporations have the strictest internal requirements. Corporations should hold initial and annual director and shareholder meetings, record their meeting minutes, adopt and maintain bylaws, issue stock to shareholders, and record all stock transfers.
+
+LLCs have less strict internal requirements. However, they are generally advised to maintain an updated operating agreement, issue membership shares, record all membership interest transfers, and hold annual meetings.
+
+Other business structures have few, if any internal requirements. However, it’s rarely a bad idea to document important decisions with your business.
+
+
+Comply before they buy
+
+John and Kelly learned about laws and regulations their business has to follow to ensure it operates legally.
+John and Kelly’s auto repair shop has to comply with state and federal business laws, as well as industry regulations.
+
+As an auto repair shop, John and Kelly’s business has to follow environmental regulations regarding the handling of hazardous liquids and other materials. They check the website of their state Environmental Protection Agency and find a checklist of regulations they must follow and permits they have to obtain.
+
+Some of their employees have been trained and certified by EPA-approved organizations on the proper way to handle hazardous materials. John and Kelly keep records of the certificates and permits.
+
+Part of staying legally compliant means paying all federal and state taxes. Additionally, John and Kelly renew their business license along with other local permits they need to continue to stay within code and operating regulations.
+
+John and Kelly’s business is also required to display certain posters that inform employees of their rights. They get these posters free of charge from the U.S. Department of Labor.
+
+John and Kelly’s business has met all its filing requirements and is legally compliant.
+
+
+Ongoing state filing requirements
+
+Your annual filing requirements are based on your business structure and the state. Still, there are a few common requirements to look out for:
+
+Annual report or biennial statement. Most states require one or the other. Some states set the due date on the anniversary of the business formation date, and other states pick a specific day for all businesses.
+Statement filing fees. Fees normally accompany the annual report or biennial statement, which can exceed $300.00.
+Franchise tax. Some states charge franchise taxes for corporations or LLCs that operate with their border. Formulas vary by state.
+Initial reports. Some states require initial reports and fees shortly after incorporation.
+Articles of Amendment. If you’ve made important changes to your company — like address, name, new shares, or membership — report it with articles of amendment.
+
+Ongoing federal filing requirements
+
+Most businesses won’t have federal requirements beyond paying federal taxes and complying with the Affordable Care Act. Make sure that you meet all federal tax obligations, including income and employer taxes.
+
+The Affordable Care Act requires businesses with 50 or more employees to report to the IRS that they provide health coverage.
+
+If your business has any federal licenses, permits, or certificates, you’ll need to keep those up to date.
+
+Other federal requirements
+Some business activities are regulated but don’t require filing. Make sure to stay in compliance with any applicable marketing and advertising laws, copyright laws, workplace poster laws, workplace health and safety laws, and the Americans with Disabilities Act (ADA).
+
+
+Licenses, permits, and recertification
+
+The documents for staying legally compliant vary based on your industry and location.
+
+Maintain any licenses, permits, or certificates your business received from your state, city, or county. Renewal requirements vary, so it’s best to check with local business licensing offices.
+
+For example, most restaurants need to regularly renew health and safety certificates. Businesses that sell regulated items like tobacco, alcohol, or tires might need to regularly renew their sales permits. For professional services like plumbing or nursing, the state might require certification with a third-party board to keep your license.
+
+For federal licenses, permits, and certificates, check with the issuing institution to confirm renewal requirements for your business. Here’s a list of some common federal agencies and departments that small businesses register with:
+
+U.S. Department of Agriculture (USDA)
+Alcohol and Tobacco Tax and Trade Bureau (TTB)
+Federal Aviation Administration
+Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+U.S. Fish and Wildlife Service
+National Oceanic and Atmospheric Administration
+The Federal Communications Commission
+Buy assets and equipment
+Your business will need special assets and equipment to succeed. Figure out which assets you need, how to pay for them, and whether you should buy government surplus.
+
+
+Know the assets and equipment you need
+
+Business assets fall into three broad categories: tangible, intangible, and intellectual property. Depending on the asset type, you’ll have to decide whether you want to buy or lease assets for your business. The first step is figuring out which assets will help your business succeed.
+
+Tangible assets
+Things like buildings, vehicles, and equipment are used for regular business activity and lose value over time. Things like printer paper, which get used up, typically don’t get counted as assets. When managing your finances, you can count tangible assets on your balance sheet as property or equipment.
+
+Intangible assets
+Your business reputation, brand, or business partner’s influential network are intangible assets or things you can’t touch. You don’t list these on your balance sheet, and it’s often difficult or impossible to sell them for cash. But they can still contribute to the overall value of your business.
+
+Intellectual property
+A type of intangible asset that includes trademarks, patents, logos, websites, domain names, and software. Intellectual property is often protected by copyright or trademark protection.
+
+
+Decide to lease or buy
+
+Once you’ve determined all the assets you need for your business, you can decide how you’d like to acquire them.
+
+Lease
+Leasing can be a good option if you need to quickly get a lot of equipment, or if the equipment you need is very expensive. Commercial space can also be leased, so you can rent a place to run your business. In some cases, leasing can actually be less expensive than purchasing with a high-interest loan.
+
+Leasing benefits:
+
+Needs less cash or credit upfront
+Short-term leases let you test out the equipment
+Maintenance is sometimes included at no extra cost
+Lease payments for business assets are typically tax deductible
+Leasing disadvantages:
+
+The lifetime cost is normally higher than buying
+Replacing it when the lease is up could be expensive
+Depreciation of leased assets typically isn’t tax deductible
+Every lease can be structured differently, so look into the details of your offer to make sure you’re getting something that works for you.
+
+Confirm the details of a lease
+There are two general kinds of leases, operating and capital. Since the accounting treatment is different, the kind of lease you use can have a significant impact on your business taxes.
+
+Operating lease	Works like a traditional rental; Does not get added to your balance sheet; Payments are operational expenses; Low maintenance, risk, or tax obligations
+Capital lease	Works more like a loan; You own the asset for accounting purposes; Added to your balance sheet; Claim depreciation and interest expenses; Take on all maintenance, risk, and tax obligations
+There are other factors to look at, too. Leases sometimes have buyout options that let you fully purchase the asset at the end of the lease. The length of a lease can vary, and shorter leases typically have higher monthly payments. If you want to leave a lease early, you could face steep early-termination penalties.
+
+You might want to ask an attorney to review a lease with you before signing, especially if any of the terms or conditions are unclear.
+
+Buy
+Buying equipment can be a good option if you have enough cash or credit available and you’re confident you’ll be using the assets for a long time.
+
+Buying benefits:
+
+You can claim depreciation on your taxes
+The lifetime cost to buy is usually less than leasing
+You can count it as an asset on your balance sheet
+Buying disadvantages:
+
+Needs more cash or credit upfront
+Less opportunity to “test out” the asset
+You could be fully liable for maintenance and replacement
+Buy with cash or credit
+If you buy your assets with cash, you’ll own it in full right away. But it also means you’ll have less cash available to cover operating expenses. Make sure you’ve done your accounting homework, and that you can actually afford to pay with cash.
+
+Loans can give you some of the same benefits of leases by distributing the total cost over a longer period. However, you’ll pay more in fees and interest than buying outright with cash.
+
+You might be able to leverage lines of credit with your bank, or look for other sources to get more funding for your business.
+
+
+Consider buying government surplus
+
+Purchasing surplus goods from the government can be easy and affordable. Just about any tangible asset your business might need is sold by the government at or below what you’d pay on the open market.
+
+When a federal or state agency has extra equipment, seized goods, or foreclosed property, the goods are either transferred to another government agency or sold to the public. These items are sold “as is” by auction or negotiated sale either online, in-person, or both. State governments tend to have a single auction site online, while the federal government has several.
+
+Use this list of federal government auction sites to start your search:
+
+Government auctions of seized and surplus property at USA.gov
+Military Surplus
+U.S. Marshals Service – Asset Forfeiture Program
+U.S. Treasury – Seized Vehicles Sales
+U.S. Treasury – IRS
+Marketing and sales
+Make a marketing plan to persuade consumers to buy your products or services, then decide how you’ll accept payment when it’s time to make a sale.
+
+
+Make a marketing plan
+
+Marketing takes time, money, and preparation. One of the best ways to stay on schedule and on budget is to make a marketing plan. It describes the actions you’ll take to persuade potential customers to buy your products or services.
+
+Your business plan should contain the central elements of your marketing strategy. Your marketing plan turns your strategy into action.
+
+Use these sections in your marketing plan
+Most marketing plans cover these topics. As always, use what works best for your business.
+
+Target market
+Describe your audience in detail. Look at the market’s size, demographics, unique traits, and trends that relate to demand for your business.
+
+Competitive advantage
+Describe what gives your product or service an advantage over the competition. It might be a better product, a lower price, or an excellent customer experience. Sometimes, an environmentally friendly certification or “made in the USA” on your label can be an important factor for customers.
+
+Sales plan
+Describe how you’ll literally sell your service or product to your customers. List the sales methods you’ll use, like retail, wholesale, or your own online store. Explain each step your customer takes once they decide to buy.
+
+Marketing and sales goals
+Describe your marketing and sales goals for the next year. Common marketing and sales goals are to increase email subscribers, grow market share, or increase sales by a certain percent.
+
+Marketing action plan
+Describe how you’ll achieve your marketing and sales goals. List marketing channels you’ll use, like online advertising, radio ads, or billboards. Explain your pricing strategy and how you’ll use promotions. Talk about the customer support that happens after the sale. The federal government regulates advertising and labeling for a number of consumer products, so make sure your advertising is legally compliant.
+
+Budget
+Include a complete breakdown of the costs of your marketing plan. Try to be as accurate as possible. You’ll want to keep tracking your costs once you put your plan into action.
+
+Measure and update your plan
+Plan to compare your marketing and sales costs to the revenue it generates. You want to make sure you’re getting a positive return on investment, or ROI.
+
+Some tactics are hard to measure  — like print advertising or word-of-mouth campaigns. Get creative and use others’ advice, but be consistent in how you measure the effectiveness of your marketing efforts.
+
+Marketing plans should be maintained on an annual basis, at minimum. Measuring ROI will help you know which part of the plan is working and which part needs to be updated.
+
+Don’t forget about operations
+Not everyone agrees on the exact distinctions between marketing and sales, but most people recognize they’re connected. The influence operations has on marketing and sales is often overlooked.
+
+Simple operations elements like your staff uniform, where your product is made, or the product return process contribute to your customer’s experience. That experience shapes how your customers view your company, and can influence whether they’ll become a loyal customer for life or tell their friends to stay away.
+
+
+Spread the word
+
+John and Kelly developed a marketing plan to persuade potential customers to visit their auto repair shop.
+John and Kelly want to attract customers to their auto repair shop. They draw up a marketing plan that describes their strategy and goals.
+
+John and Kelly identify their target market as anyone with an automobile. They decide to set their business apart from other local auto shops by stressing its superior service and affordability.
+
+It’s important to set clear goals for your marketing plan, like increasing sales by a certain percent. John and Kelly’s auto shop is just getting started, so they want to build a solid customer base. They aim to serve at least a certain number of new customers each month.
+
+John and Kelly purchase advertising space on the websites of two local TV news stations, as well as the local newspaper’s website. They also purchase ad time on a local radio station. The advertising costs have been accounted for in the marketing plan.
+
+Additionally, they set a date to review their marketing plan. At that time, they’ll compare marketing costs to the revenue it generated to determine if they got a positive return on investment (ROI).
+
+John and Kelly have a marketing plan that they believe will attract new customers and help grow their business.
+
+
+Choose how you’ll accept payments
+
+The kinds of payments you accept can impact your marketing and sales, as well as your bottom line. Accept forms of payments that are cost effective, secure, and provide a positive experience for your customers.
+
+You’ll need a business bank account no matter what kinds of payment you choose.
+
+Credit cards
+To accept credit and debit cards, you’ll need either a merchant services account with a bank or an account with an independent payment processing company.
+
+You’ll pay small processing fees for each credit or debit card transaction, plus costs for setting up any necessary equipment.
+
+Accepting credit and debit cards exposes you to the risk of fraud, but most vendors provide a certain level of protection for your business. Make sure that you use an EMV (Europay, MasterCard, and Visa) chip reader, which will limit both fraud and your liability.
+
+Checks
+You only need a business bank account to accept checks.
+
+You’ll want to create a policy for accepting checks to help you avoid bad or fraudulent checks. Standard practices include only taking checks from well-known or in-state banks, or requiring checks be only for the exact amount owed. You could also use a third party service to help verify the quality of the check.
+
+If a check bounces, your options to get the final payment will vary depending on your location. Some states require businesses to mail a registered letter and allow a designated waiting period to lapse before further action is taken. To get payment for a bounced check, you could end up in small claims court or using a collection agency.
+
+Cash
+Many small businesses operate as “cash only” merchants because it’s fast, easy, and inexpensive.
+
+If you accept cash, remember that large sums of cash can add to accounting time and come with an additional security risk. You’ll want a secure way to hold your cash, like a register and a safe.
+
+There are special reporting requirements for cash. The IRS requires you to report if your business gets more than $10,000 in cash, or a cash equivalent, from one buyer as a result of a single transaction or two or more related transactions.
+
+Online payments
+If you sell your product or service online, you could accept payment through your website with an online payment service.
+
+Online payment services typically accept credit and debit cards in addition to other popular online money transfer services. You’ll pay fees to in order to accept payments online, just like accepting credit cards in a physical location.
+
+Online payment services require a virtual shopping cart to calculate the total, tax, and shipping costs of an order, in addition to collecting customer account and shipping information. Some online payment service providers offer free shopping cart services to businesses.
+
+See what goes into a successful marketing plan.
+
+Download our example marketing plan and learn what to consider when it comes to promoting your business.
+
+Get example marketing plan
+AI for small businesses
+Small businesses can use AI tools and applications to find solutions for all kinds of issues. Read up on both the risks and benefits.
+
+Technology allows small businesses to be more competitive in today’s fast-paced economy.  The federal government has adopted Artificial intelligence (AI) as a way to help them better serve the public. As a small business owner, AI can help your small businesses do more with less. 
+
+SBA is dedicated to informing small businesses about the ethical use of AI tools. We also want to help you think about effective ways to implement AI into your business practices. AI is relatively new, so start small. If you are unsure what tool you may need, many AI tools offer basic services for free or at a lower cost. Try testing them to see if they add value to your business. You may find they improve internal efficiencies, freeing up your time to focus on growing your business.
+
+Read on to find out about both the benefits and risks of using AI in your small business. If you’re new to AI terminology, our list of common AI terms can help you make informed decisions.
+
+
+How AI can benefit your small business
+
+AI can improve efficiency, which can help business owners save time. It can also save on costs and help your business stay competitive in times of mounting inflation. If a job market is experiencing labor shortages, AI can help compensate for skilled labor.  AI can help your business:
+
+Solve problems before they happen. Tracking traffic and flight delays can help you to avoid delivery and travel issues. Monitoring floodplains can help you prepare for or avoid disaster damage. Rate optimizers can help lessen shipping costs. AI can even help you find ways to mitigate your business’s environmental impact that won’t break the bank.
+Safeguard your data. Look into security software or vendors that use AI technology. The ability to automate security functions can help security professionals process more data at a faster rate. The ability to quickly react to an attack and apply a security patch can make all the difference to your small business.
+Make better business decisions. AI can help you analyze your small business data and pick out common themes. Use your own client data to make better strategic decisions. Data inclusive tools can also help you compare your business to similar businesses and find gaps that you can address or advantages you can exploit to give your business an extra boost.
+Take on repeat tasks. Use a voice assistant to program monthly meetings. Set calendar reminders that remind employees of important work deadlines. Sort your email into inboxes by task. Update to-do lists or restock inventory without having to stop what you’re doing. AI can also be used to record and summarize your team meetings. You can also generate reusable templates  that reduce time and improve communications.
+Create business content. Get help when editing photos or videos. Draft a business plan. Write job postings and blogs. AI can also use your original marketing content to develop e-commerce product descriptions or generate and schedule social media posts across multiple platforms or develop engaging content based on trending hashtags and topics. To keep your budget down, make variations you can use on different sites or over several months.
+Collaborate and brainstorm. Get ideas for a logo design that uses your company colors, or to come up with a marketing plan that meets your budget. Ask about a solution for a business blocker. If you work alone, AI can help you collaborate on business solutions. You can also use it to find problems in upcoming projects, such as hidden costs or possible financial risks.
+Improve customer service. Add a website chatbot that can answer common questions or complete an order. Automate your phone service to route calls to the right department. Fine-tune ads to better target your customers’ interests and needs. Write courteous, thoughtful replies to online reviews.
+
+Risks of AI use
+
+Using AI can mean your business is assuming a certain amount of risk. If it is part of software you have purchased, those creators are responsible for their product’s use of AI.
+
+If you are using free AI tools or software in your small business, have another person review all AI products. This will help make sure they are being used ethically, securely, and in a manner that accurately represents your business.
+
+If your small business has an attorney, consider a consultation. Your lawyer can help make sure you are using AI consistent with local laws or best business practices. Other considerations include:
+
+Intellectual property. AI sources content from the web. Make sure anything you produce doesn’t infringe on any patents, copyrights or trademarks.
+Security risks. Try not to feed any sensitive data or proprietary information. This will help keep it out of the data pool that the system uses when producing content. Keep an eye out for phishing campaigns that might have been written using AI.
+Customer trust. Tools that recognize AI-generated content may mark it as spam, or as not generated with real knowledge of the recipient. This could create customer resistance to future outreach efforts. Make sure a person assesses all the messages and outreach campaigns that AI generates.
+Ethical concerns. Monitor and review content to make sure it reflects your business’s culture and principles. While there are currently no federal or state laws that require businesses to disclose the use of AI, it is becoming an expected best practice. Consider drafting a public statement that discloses how your small business uses AI.
+
+Common terms
+
+Artificial Intelligence (AI): AI is a set of systems that program computers to solve problems or work through tasks. These systems adjust and adapt to new information. This process is meant to imitate human intelligence.
+Algorithm: A list of specific rules or instructions. These help a computer system perform a task or solve a problem.
+Machine Learning: This is a field within AI. It refers to the process of using data to produce models that can perform complex tasks. The computers can then “learn” from the data, without more programming. 
+Language Model/Large Language Model (LLM):A language model is a type of machine learning model. It uses math to predict the next word in a series of words. It can also help fill in the missing word in a phrase. An example of this is the autocomplete function on a cell phone. A LLM learns language patterns. It does this by training on a massive amount of data. This allows the machine to recognize the patterns. LLMs can be used for both writing and translation. They are also used to answer questions, like on a chatbot.
+Generative AI (GenAI): This is an LLM that can create new content. GenAI can make text, images, even videos and music. It learns patterns from existing data. GenAI then uses those patterns to create new and similar data. This technology is what most people know about. GenAI is relatively new and changing daily.
+Prompt: This refers to the information you feed into GenAI. This can be a sentence, question or other information. The AI model will use this information and its pattern models to generate a response.
+
+Additional resources
+
+Harvard University’s Information Technology Department has an article with helpful tips on how to write better AI prompts.
+If you are using AI to innovate new products or technologies, the U.S. Patent Office has published Guidance for AI-assisted Inventions that will help you determine if your invention can qualify for a patent.
+Strengthen your cybersecurity
+Cyberattacks are a concern for small businesses. Learn about cybersecurity threats and how to protect yourself.
+
+
+Why cybersecurity matters
+
+Cyberattacks cost the U.S. economy billions of dollars a year. They also pose a threat for individuals and organizations. Businesses can be attractive targets for cyber criminals. Small businesses in particular may lack the means to protect their digital systems.  
+
+Surveys have shown that many small businesses feel vulnerable to a cyberattack. Many small businesses cannot afford professional IT solutions. They may also lack time to devote to cybersecurity, or may not know where to begin.
+
+Start protecting your small business by:
+
+Learning about cybersecurity best practices
+Understanding common threats
+Dedicating resources to improve your cybersecurity 
+
+Best practices for preventing cyberattacks
+
+Train your employees
+What is the leading cause of small business data breaches? Employees and work-related communications. They are direct pathways into your systems. Train your employees on internet usage best practices. This can help in preventing cyberattacks.  
+
+Other useful training topics include:
+
+Spotting phishing emails
+Using good internet browsing practices
+Avoiding suspicious downloads
+Enabling authentication tools (strong passwords, Multi-Factor Authentication, etc.)
+Protecting sensitive vendor and customer information 
+Secure your networks
+Safeguard your internet connection by encrypting information and using a firewall. If you have a Wi-Fi network, make sure it is secure and hidden. This means setting up your wireless access point or router so it does not broadcast the network name. This is also called the Service Set Identifier (SSID). Make sure your router is password protected. If you have employees working remotely, they should use a Virtual Private Network (VPN). A VPN will connect to your network securely from their location. 
+
+Use antivirus software and keep all software updated
+Install antivirus software on all business’s computers, and update them regularly. Antivirus software can be found online from a variety of different vendors. All software vendors provide patches and updates to correct and improve security and operations. It is best to configure your software to install updates automatically. Also update all operating systems, web browsers, and other applications. This will help secure all business data. 
+
+Enable Multi-Factor Authentication
+Multi-Factor Authentication (MFA) is an important security measure. It verifies someone’s identity by requiring more than a username and password alone. MFA may require users to provide two or more of the following:  
+
+Something the user knows (password, phrase, PIN)  
+Something the user has (physical token, phone)  
+Something that physically identifies the user (fingerprint, facial recognition)  
+Check with your vendors to see if they offer MFA for any of your accounts (for example, financial, accounting, payroll). 
+
+Monitor and manage Cloud Service Provider (CSP) accounts
+Using a CSP to host information and collaboration services adds needed security, especially under a hybrid work model. Software-as-a-Service (SaaS) providers for email and workplace productivity can help secure data. 
+
+Secure, protect, and back up sensitive data
+Secure payment processing – Work with your banks or card processors to ensure you are using the most trusted tools and anti-fraud services. You may also have security obligations related to agreements with your bank or payment processor. It’s best to isolate payment systems from less secure programs. For example, do not use the same computer to process payments and casually browse the internet.
+Control physical access – Prevent access to business computers from unauthorized individuals. Laptops and mobile devices can be easy targets for theft and can be lost, so lock them if they are unattended. Make sure each employee has a separate user account, and that accounts require a strong password.
+Restrict privileges – Administrative privileges should only be given to trusted IT staff and key personnel. Perform access audits within your business on a regular basis. This ensures that former employees are removed from your systems. When applicable, former employees should return all company-issued devices.
+Back up your data - Regularly back up data on all your computers. If possible, perform data backups to cloud storage on a weekly basis. This will help minimize data loss. Critical data may include:
+Financial, human resources, and accounting files
+Word-processing documents, electronic spreadsheets, and online databases
+Control data access - Audit the data and information you are housing in cloud storage repositories on a regular basis. This can mean audits of your Dropbox, Google Drive, Box, and Microsoft Services. Appoint administrators for cloud storage drive and collaboration tools. Instruct administrators to monitor user permissions as well. Employees should have access to only the information they need.
+
+Common threats
+
+While it’s important to use best practices in your cybersecurity strategy, preventative measures only go so far. Cyberattacks constantly change, and business owners should be aware of the most common types. To learn more about a specific threat, click on the link provided to view a short video or fact sheet. 
+
+Malware: Malware (malicious software) is software designed to harm a computer, server, or computer network. Malware can include viruses and ransomware.
+Viruses: Viruses are harmful programs intended to spread from device to device like a disease. Cyber criminals use viruses to gain access to your systems. This can cause significant and sometimes unrepairable issues.
+Ransomware: Ransomware is a type of malware. It infects and restricts access to a computer until the owner provides some sort of ransom. Ransomware can encrypt data on a device, and demand money in return for a promise to restore it. Ransomware exploits unpatched vulnerabilities in software and is usually delivered through phishing emails.
+Spyware: Spyware is a form of malware. It gathers information from a target and sends it to another entity without consent. Some spyware is legitimate and legal. It may operate for commercial purposes, like advertising data collected by social media platforms. Malicious spyware, however, illegally steals information and sends it to other parties.
+Phishing: Phishing is a common type of cyberattack. It can use things like links in an email to infect your system with malware to collect sensitive information. Phishing emails can appear legitimate, or appear to be sent from a known entity. These emails often entice users to click on fraudulent links or open attachments containing malicious code. Be cautious about opening links from unknown sources. If something seems suspicious from a known source, don’t click on it – ask the source directly if it’s legitimate.
+
+Assess your business risk
+
+To improve your business’s cybersecurity, it’s best to understand the risk of an attack. It’s also important to know where you can safeguard your data and systems.
+
+A cybersecurity risk assessment can identify where your business is vulnerable. It can also help create a plan of action. This plan of action should include: 
+
+Guidance on user training
+Information on securing email platforms
+Instructions for protecting your business’s information systems and data
+Planning and assessment tools
+There’s no substitute for dedicated IT support, even if expensive. This can be an employee or external consultant. Here is a list of measures that all businesses can take to improve their cybersecurity. 
+
+Create a cybersecurity plan. The Federal Communications Commission (FCC) offers a cybersecurity planning tool (The Small Biz Cyber Planner 2.0). This tool can help you build a custom strategy and cybersecurity plan.
+Conduct a Cyber Resilience Review. The Department of Homeland Security (DHS) partnered with the Computer Emergency Response Team (CERT) Division of Carnegie Mellon University’s Software Engineering Institute to create the Cyber Resilience Review (CRR). This is a non-technical assessment to test operational resilience and cybersecurity practices. You can either complete the assessment yourself, or request a facilitated assessment by DHS cybersecurity professionals.
+Conduct vulnerability scans. These are offered through the Cybersecurity and Infrastructure Security Agency (CISA). CISA offers scanning and testing services that assess exposure to threats to help keep systems secure. DHS also offers free cyber hygiene vulnerability scanning for small businesses.
+Manage information communication technology (ICT) supply chain risk. Use the ICT Supply Chain Risk Management Toolkit to help shield business information and communications from supply chain attacks. Developed by CISA, this toolkit includes resources designed to raise awareness and reduce the impact of supply chain risks.
+Take advantage of free cybersecurity services and tools. CISA has a list of free cybersecurity resources like open-source tools and services offered by private and public sector organizations, along with guidance for small businesses. Additionally, the FTC has guidance on how to protect yourself from scams and keep your customers’ data safe.
+Maintain DoD industry partner compliance (if applicable). Federal contractors and subcontractors should be aware of the Cybersecurity Maturity Model Certification (CMMC) program. Its purpose is to safeguard Controlled Unclassified Information (CUI) shared by the DoD. CMMC is a framework and assessor certification program for cybersecurity standards and requirements. Under CMMC, companies must implement security measures depending on the information’s sensitivity. These will be assessed accordingly. Rulemaking is currently in progress, but contractors should be aware of requirements. You will need to meet a certain CMMC level is as a condition of contract award. 
+
+Training and events
+
+SBA training
+SBA and its resource partners host in-person and virtual cybersecurity events.
+
+Other training
+The National Cybersecurity Alliance is a public-private partnership. It provides virtual and in-person cybersecurity events to help small business owners stay secure.
+
+Protect yourself from fraud
+As a small business owner, protecting your hard-earned money and reputation is a top priority. Scammers often target small businesses by pretending to be government officials or offering “too good to be true” financial deals.
+
+Learn to recognize common scams, protect your business, and know exactly what to do if you suspect fraud.
+
+
+Common types of fraud and scams
+
+Scammers use many different tricks to steal money or personal information. Here are the most common threats to watch for:
+
+Phishing: You receive an email or text that looks like it is from SBA or another government agency. These messages often use official logos and may ask for your Social Security Number (SSN) or bank details.
+Grant & Loan Fraud: Scammers may contact you promising “guaranteed” approval for an SBA loan or grant if you pay a fee upfront. Note:  SBA never charges a fee to apply for disaster assistance.
+Identity Theft: This happens when someone uses your personal or business information (like your EIN or SSN) to apply for a loan in your name.
+Imposter Scams: People may call or visit your business claiming to be “SBA representatives” or “disaster inspectors.” They might ask for money or private documents to “speed up” your application.
+
+What to look for
+
+Prevention is your best defense. Follow these steps to keep your information safe:
+
+Be Skeptical: If someone promises you a high-interest “bridge loan” while you wait for SBA funding, be very careful. This is often a way to trap you in debt.
+Check the Email Address: Official SBA communications only come from email addresses ending in @sba.gov. If you get an email from a different address (like @gmail.com or @sba-gov.org), it is a scam.
+Don’t Pay for Help: You do not need to pay a “middleman” to get an SBA loan. Applying through SBA or an approved lender is free.
+Verify the Application Number: If you are already applying for a loan and receive an email asking for more info, make sure the application number in the email matches your records.
+Monitor Your Credit: Regularly check both your personal and business credit reports for any loans or accounts you didn’t open yourself.
+Report fraud or identity theft
+Learn how to report
+Prepare for emergencies
+Disasters can take many forms and the financial cost of rebuilding after a disaster can be overwhelming. If you’re prepared for emergencies, you’ll be in a better position to recover and continue operations should disaster strike.
+
+
+Be prepared
+
+Step 1: Assess your risk
+Every business has unique vulnerabilities and weaknesses. Knowing which disasters are most likely to affect your business can help you to return to operations faster. A back-to-business self-assessment can help you to assess your risks for common hazards such as hurricanes, wildfires, flooding, or even cyberattacks.
+
+Step 2: Create a plan
+Your response plan is your roadmap to recovery, so it should be tailored to your business’s specific needs and operations.  It should address immediate priorities and be easy to access.  Checklists and online toolkits are effective resources to help you develop your plan. Consider the following:
+
+The SBA Business Resilience Guide simplifies the process of preparing for and recovering from a disaster, helping to reduce your risk
+The IRS guide on preparing your business for a disaster
+The Federal Emergency Management Agency (FEMA) emergency preparedness checklist and toolkit
+Focus on disasters that pose a realistic risk to your small business. Consult the following resources to lessen the financial impact of disasters and reopen your business quickly.
+
+Hurricane safety tips
+Tornado safety tips
+Wildfire safety tips
+Flood safety tips
+SBA guidance on strengthening your cybersecurity, cybersecurity planning guide 
+Step 3: Execute your plan
+Practice your plan with your staff so you’re ready when a disaster occurs.
+
+
+Get financial assistance after a disaster
+
+You may be eligible for a low-interest disaster recovery loan through the SBA for damaged and destroyed assets in a declared disaster. These include repair and replacement costs for real estate, personal property, machinery, equipment, inventory, and business assets. Check to see if one of these loans apply.
+
+Home and Property Disaster loans
+Economic Injury Disaster Loans (EIDL)
+Military Reservist Economic Injury Disaster Loans (MREIDL)
+Submit your SBA disaster loan as soon as possible, then ask your SBA representative about increasing your physical damage loan for mitigation purposes. There is no cost to apply, and you are under no obligation to accept a loan if approved.
+
+
+Mitigation assistance
+
+Help protect your home, business or nonprofit against future disasters. See how mitigating for future damage is within reach.
+
+Recover from disasters
+Disasters can happen when you least expect them. Find recovery planning guidance, tips for pivoting your business model, and other small business resiliency resources.
+
+SBA is dedicated to the success our nation’s small businesses and can help your small business weather the storm through every stage of the business lifecycle, whether you need help recovering from the COVID-19 pandemic or overcoming challenges of a different kind.
+
+
+Recovery planning
+
+Planning is one of the most important elements of recovery. Writing and implementing a business continuity plan will help you minimize financial loss when your business faces a disaster. Your business continuity plan should:
+
+Identify and document critical business functions and processes
+Organize a business continuity team
+Evaluate recovery strategies
+Get more help with creating a business continuity plan at Ready.gov.
+
+
+Pivot your business
+
+As businesses deal with a new reality, and “business as usual” takes on an entirely new meaning, most will need to rethink and retool how they do business in order to survive. Updating your business plan is critical.
+
+If you haven’t already updated your business plan, start by taking these three steps:
+
+Look for opportunities. Changes in consumer behavior provide opportunities for innovation and new market strategies. Determine how customers’ needs and wants may have changed due to the pandemic, and respond accordingly.
+Streamline operations. Evaluate business operations to find opportunities to work smarter and more cost-efficiently. Review financials, short-term goals, and long-term goals and make appropriate adjustments.
+Negotiate. This might involve modifying lease agreements, establishing contracts, or future business. Look for ways to streamline costs and reduce overhead.
+The Small Business Development Center (SBDC) network has a Business Resiliency Plan Template that you may find useful.
+
+Additional resources
+SCORE Small Business Resilience Training can give you the tools to adapt, reopen, and grow successfully through any disaster.
+
+The SBDC network is the largest SBA-funded Resource Partner and provides one-on-one business advising at no cost to entrepreneurs. SBDC-certified advisers will walk you through your options so you can confidently make tough decisions about the future of your business. Find your nearest SBDC.
+
+
+Supply chain
+
+Minimize supply chain interruptions during a disaster and find alternative sources to meet the demands of your customers:
+
+The Supply Chain Risk Management Toolkit, developed by the DHS Cybersecurity and Infrastructure Agency (CISA), can help you shield your business information and communications technology from supply chain attacks.
+Explore the New Hampshire SBDC’s guide to Supply Chain Management During a Downturn.
+The Federal Emergency Management Agency’s guide to Supply Chain Resilience (PDF) may help you understand how local supply chains work together and how to minimize disruptions during an emergency.
+A workshop with tips from the Lynchburg area SBDC may help you with Understanding and Mitigating Supply Chain Risks Remotely.
+Close or sell your business
+Create a thorough plan to transfer ownership, sell, or close your business. Get qualified advice and know what to do to tie up loose ends.
+
+
+Close your business
+
+Closing your business can be a difficult choice to make. The Small Business Administration’s local assistance finder can connect you with local guidance in planning your exit strategy. It’s also helpful to seek advice from your lawyer and a business evaluation expert, along with other business professionals including accountants, bankers, and the IRS.
+
+Follow these steps to closing your business:
+
+Decide to close. Sole proprietors can decide on their own, but any type of partnership requires the co-owners to agree. Follow your articles of organization and document with a written agreement.  
+File dissolution documents. Failure to legally dissolve an LLC or corporation with any state you’re registered in will expose you to continued taxes and filing requirements. Look up your state for more information from the Secretary of State, Business Bureau, or Business Agency websites.
+Cancel registrations, permits, licenses, and business names. Protect your finances and reputation by canceling any of these that you no longer need, including your trade name.
+Comply with employment and labor laws. Reference the Department of Labor’s Worker Adjustment and Retraining Notification Act (WARN) for employee payment after closing, along with other federal and state laws.
+Resolve financial obligations. Handle final returns for income tax and sales tax. Cancel your Employer Identification Number, notify federal and state tax agencies, and follow this checklist from the IRS with instructions on how to close your business.
+Maintain records. You may be legally required to maintain tax and employment records, among other files. Common guidelines advise keeping records for anywhere from three to seven years.
+
+Sell your business
+
+After careful consideration, you may decide to sell your business. Sound planning can help ensure you cover all your bases.
+
+Use business valuation to set a monetary value before marketing to prospective buyers. You can do a self-evaluation and learn more about the resources needed for business valuation appraisals from The Appraisal Foundation.
+
+Accurately value all property and real estate tied to your small business. This can include intangible assets like brand presence, intellectual property, customer information, and projection of future revenue.
+
+When you’re figuring out how much your business is worth, consider these common valuation methods:
+
+Income approach. Looks at projected revenue and accounts for potential risks.
+Market approach. Compares your business to other similar businesses that have recently sold.
+Assets approach. Subtracts total business liabilities from the total value of all assets.
+Make a sales agreement
+You must prepare a sales agreement to sell your business officially. This document allows for the purchase of assets or stock of a corporation. An attorney should review it to make sure it’s accurate and comprehensive.
+
+List all inventory in the sale along with names of the seller, buyer, and business. Fill in background details. Determine how the business will be run prior to close and the level of access the buyer will have to your information. Note all adjustments, broker fees, and any other aspects relevant to the terms of agreement.
+
+Don’t leave out any assets and liabilities, or this can create problems even after the sale has been finalized.
+
+
+Transfer ownership
+
+Many small business owners will face a time when they need to transfer their ownership rights to another person or entity. You’ll have a few different options available for doing so.
+
+Option	Scenario	Benefit
+Outright sale	Liz owns a local clothing boutique that hasn’t performed well. With several other businesses on her plate, she can no longer afford to continue running it. She needs a quick exit and quick cash.	By selling a business in full, you will transfer ownership immediately and receive payment right away.
+Gradual sale	Bill owns a market near his home. After the birth of his granddaughter, he now spends most of his time at his daughter’s home several hours away. After transferring business ownership, Bill no longer has to worry about running his business but is still receiving a monthly income.	This option often benefits individuals that can’t afford an outright sale, but instead are able to finance a long-term payment plan. A gradual sale is a flexible option for transferring a business.
+Lease agreement	Barbara has decided to take a year-long cruise around the world. To take care of her day care center she’s decided to transfer ownership to a friend through a lease.	By transferring your business ownership through a lease, you’ll commit to a contract that details the conditions and payments you’ll receive for the temporary rights to the business.
+Other considerations
+Transferring ownership of a family business may have legal impacts, such as estate and gift tax obligations imposed by the IRS. A transfer of property would also likely require taxation.
+
+It’s also important to understand how to approach the exit strategy based on business type. You may want to consult with a lawyer to see which additional rules could apply.
+
+
+File for bankruptcy or liquidate
+
+A forced exit has implications for your employees, assets and tax obligations.
+
+During a bankruptcy case, you need to stay up to date with all filing requirements and taxes. Reference the IRS Bankruptcy Tax Guide online for information on debt cancellation, tax procedures, and considerations for different types of business structures.
+
+Liquidating assets usually comes as a last-resort strategy after no buyers, merges, or successors appear on the horizon. This process of redistributing assets to creditors and shareholders still requires a sound plan of action.
+
+Before terminating your lease, selling equipment, and disconnecting utilities, talk to your lawyer and accountant. They’ll help you develop a plan to present to creditors, whose cooperation you need during this process.
+
+Reference these steps in the asset liquidation process.
+
+Prepare an inventory and determine assets for sale
+Secure your merchandise
+Set liquidation value of assets with a qualified appraiser
+Use that value to estimate net sale proceeds and re-evaluate your decision
+Choose sale type: negotiated, consignment, internet, sealed bid, or retail
+Select the best time and location for your sale
+Hire an auctioneer, dealer, broker, or other expert to conduct
+Use a non-recourse bill of sale so buyer accepts the associated risk
+The Small Business Administration’s counseling tool connects small business owners with local guidance.
+
+Hire employees with disabilities
+Hiring individuals with disabilities can be a smart move for your business.
+
+Small businesses can find it challenging to hire talented workers. Hiring disabled individuals can help businesses meet their talent needs. It can also strengthen a business’s competitive edge by fostering creative business solutions.
+
+What is considered a disability? Any physical or mental impairment that substantially limits one or more major life activities. People with disabilities often need workplace accommodations. These could include modifications or adjustments to:
+
+how the job tasks are accomplished
+the physical work environment
+the way things are usually done during the hiring process
+
+Find qualified talent
+
+The goal of recruitment is to find the best people for the job. Making sure that all who qualify can take part in the process is essential. It is important to know where to look to find candidates with disabilities.
+Companies interested in hiring employees with disabilities can:
+
+Reach out to the local Workforce Development Board (WDB). WDBs are part of the Public Workforce System. This is network of federal, state, and local offices that connect companies to the resources they need. This includes skilled employees with disabilities.
+Contact your local American Job Center. A Business Services Representative can help with hiring or training employees. This includes people with disabilities who are ready and willing to work.
+Use EARN’s list of online job posting boards to find qualified workers with disabilities. 
+Customize your employee search
+An employment strategy can help small businesses. It identifies low-cost, low-tech ways to improve labor effectiveness. This assures a mutually rewarding employment partnership. It also helps recruit workers with disabilities who your business needs.
+
+DOL’s Office on Disability Employment Policy has resources to help employers implement customized employment strategies for recruitment and hiring. 
+
+Partner with advocacy groups and workforce development organizations
+Expand your reach by partnering with groups such as:
+
+State Vocational Rehabilitation (VR) agencies
+Provide a wide range of services to help people with disabilities find and keep jobs
+Connect businesses with skilled workers with disabilities in their area
+Your state’s Governor’s Committee on Employment of People with Disabilities
+Increases employment opportunities for people with disabilities 
+Promotes public awareness of the needs and abilities of people with disabilities
+Your local Center for Independent Living (CIL)
+Promotes independent living and equal access for people of all ages with all types of disabilities
+Often works with local employers interested in hiring qualified workers with disabilities
+The Social Security Administration’s Ticket to Work (TTW) program
+Can connect employers with Employment Networks
+These help businesses find qualified job applicants with disabilities
+The Department of Labor Workforce Recruitment Program (WRP)
+Connects employers with postsecondary students and recent graduates with disabilities seeking internships and jobs
+State Apprenticeship Agencies
+Helps connect jobseekers looking to learn new skills with employers and sponsors
+Watch the #ApprenticeshipWorks video to learn more about these benefits
+Your state’s AT Act Program
+Helps employers and employees identify the most cost-effective assistive technology to meet accommodation needs
+You can also partner with your local college or university’s Office of Disability Student Services, or local organizations and groups that support people with disabilities.
+
+Cultivating relationships with these organizations is a good way to gain visibility. It can also improve your access to the talent pool of people with disabilities.
+
+
+Know the guidelines on interviewing
+
+When interviewing candidates with disabilities, employers must follow certain guidelines. For example, there are certain questions you may not ask. You cannot ask job applicants about their disabilities or medical conditions.
+
+To learn more, read the U.S. Equal Employment Opportunity Commission guide.
+
+
+Reasonable job accommodations
+
+What matters is an employee’s abilities, not his or her disabilities. Accommodations help employees with disabilities do their job.
+
+The Americans with Disabilities Act (ADA) defines a workplace accommodation. Job accommodations can include:
+
+Screen reading software for employees who have low vision
+Raised desks for employees who use wheelchairs
+Job coaching for employees with intellectual disabilities
+Modifying a policy to allow a service animal
+Workplace Personal Assistance Services
+Working from home (telecommuting)
+Adjustments to work schedules
+For more information about job accommodations:
+
+Read the U.S. Equal Employment Opportunity Commission’s Reasonable Accommodations. This can tell you what to consider when hiring individuals with disabilities.
+Visit Job Accommodation Network (JAN). JAN provides free, expert and confidential guidance. They also help with disability employment issues like employment laws.
+Cost of accommodations
+Most workplace accommodations don’t cost much. According to JAN, half of all job accommodations cost employers nothing. When they do have a cost, it’s typically around $500. It’s also usually a one-time expense. Most employers say it pays for itself many times over. It can reduce insurance and training costs and increase productivity.
+
+Businesses can take advantage of financial incentives to make reasonable accommodations.
+
+Accessible technology
+Individuals with disabilities must be able to access the same information as others, and this is supported by the Section 508 law. This means that software, documents, forms, online meetings, and other types of technology must be accessible by people with disabilities, whether they use assistive technology or not.
+
+
+Financial incentives
+
+Federal financial incentives encourage businesses to hire individuals with disabilities. They also help offset the costs of workplace accommodations.
+
+There are also state tax credits available. Check your state office of tax and revenue for more details.

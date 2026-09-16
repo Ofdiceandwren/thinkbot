@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThinkBot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="background-glow glow-left"></div>
+    <div class="background-glow glow-right"></div>
+
+    <div class="app-container">
+
+        <div class="thinkbot-card">
+
+            <div class="brand-section">
+                <div class="brain-icon">◉</div>
+
+                <h1>
+                    <span class="think">Think</span><span class="bot">Bot</span>
+                </h1>
+
+                <p class="tagline">YOUR SMALL BUSINESS ASSISTANT</p>
+                <p class="subtagline">Answers. Insights. Real-World Solutions.</p>
+            </div>
+
+            <form method="POST">
+
+                <label for="mode" class="form-label">
+                    Choose how ThinkBot should help
+                </label>
+
+                <select name="mode" id="mode">
+                    <option value="Answer as Chatbot"
+                        {% if selected_mode == "Answer as Chatbot" %}selected{% endif %}>
+                        Answer as Chatbot
+                    </option>
+
+                    <option value="Answer from Knowledge Base"
+                        {% if selected_mode == "Answer from Knowledge Base" %}selected{% endif %}>
+                        Answer from Knowledge Base
+                    </option>
+
+                    <option value="Search Knowledge Base"
+                        {% if selected_mode == "Search Knowledge Base" %}selected{% endif %}>
+                        Search Knowledge Base
+                    </option>
+                </select>
+
+                <textarea
+                    name="question"
+                    id="question"
+                    rows="5"
+                    placeholder="Type your question here..."
+                >{{ question }}</textarea>
+
+                <button type="submit" id="submit-button">
+                    ✦ Ask ThinkBot
+                </button>
+
+            </form>
+
+            {% if response %}
+            <div class="response">
+                <h2>ThinkBot Response</h2>
+                <div class="response-content">
+                    {{ response|safe }}
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="feature-divider"></div>
+
+            <div class="features">
+
+                <div class="feature">
+                    <div class="feature-icon">◯</div>
+                    <h3>GET ANSWERS</h3>
+                    <p>Clear. Helpful. Reliable.</p>
+                </div>
+
+                <div class="feature">
+                    <div class="feature-icon">▣</div>
+                    <h3>EXPLORE KNOWLEDGE</h3>
+                    <p>Find what matters.</p>
+                </div>
+
+                <div class="feature">
+                    <div class="feature-icon">$</div>
+                    <h3>GET FUNDING</h3>
+                    <p>Resources to grow your business.</p>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="footer-message">
+            KNOWLEDGE &nbsp;•&nbsp; SUPPORT &nbsp;•&nbsp;
+            SMALL BUSINESS &nbsp;•&nbsp; A BRIGHTER TOMORROW
+        </div>
+
+    </div>
+
+</body>
+</html>
