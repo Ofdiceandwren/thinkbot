@@ -1,6 +1,8 @@
 import os
 
-from langchain_cohere import ChatCohere, CohereEmbeddings
+import cohere
+from langchain_cohere import ChatCohere
+from langchain_core.embeddings import Embeddings
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
@@ -57,10 +59,32 @@ texts = text_splitter.split_documents(documents)
 
 print(f"Documents split into {len(texts)} chunks.")
 
-embeddings = CohereEmbeddings(
-    model="embed-english-v3.0",
-    cohere_api_key=os.getenv("COHERE_API_KEY")
-)
+class CohereV2Embeddings(Embeddings):
+    def __init__(self):
+        self.client = cohere.ClientV2(
+            api_key=os.getenv("COHERE_API_KEY")
+        )
+
+    def embed_query(self, text):
+        response = self.client.embed(
+            model="embed-english-v3.0",
+            texts=[text],
+            input_type="search_query",
+            embedding_types=["float"]
+        )
+        return response.embeddings.float_[0]
+
+    def embed_documents(self, texts):
+        response = self.client.embed(
+            model="embed-english-v3.0",
+            texts=texts,
+            input_type="search_document",
+            embedding_types=["float"]
+        )
+        return response.embeddings.float_
+
+
+embeddings = CohereV2Embeddings()
 
 CHROMA_DIR = os.path.join(BASE_DIR, "chroma_db")
 
