@@ -75,25 +75,54 @@ class CohereV2Embeddings(Embeddings):
         return response.embeddings.float_[0]
 
     def embed_documents(self, texts):
-        response = self.client.embed(
-            model="embed-english-v3.0",
-            texts=texts,
-            input_type="search_document",
-            embedding_types=["float"]
+        all_embeddings = []
+
+        for i in range(0, len(texts), 96):
+            batch = texts[i:i + 96]
+
+            response = self.client.embed(
+                model="embed-english-v3.0",
+                texts=batch,
+                input_type="search_document",
+                embedding_types=["float"]
+            )
+
+            batch_embeddings = response.embeddings.float_
+
+            print(
+                f"Embedded batch: {len(batch)} texts -> "
+                f"{len(batch_embeddings)} embeddings",
+                flush=True
+            )
+
+            all_embeddings.extend(batch_embeddings)
+
+        print(
+            f"Total: {len(texts)} texts -> "
+            f"{len(all_embeddings)} embeddings",
+            flush=True
         )
-        return response.embeddings.float_
+
+        if len(all_embeddings) != len(texts):
+            raise ValueError(
+                f"Embedding count mismatch: "
+                f"{len(texts)} texts but "
+                f"{len(all_embeddings)} embeddings"
+            )
+
+        return all_embeddings
 
 
 embeddings = CohereV2Embeddings()
 
-CHROMA_DIR = os.path.join(BASE_DIR, "chroma_db")
+print("Building fresh Small Business Chroma database...")
 
-docsearch = Chroma(
-    persist_directory=CHROMA_DIR,
-    embedding_function=embeddings
+docsearch = Chroma.from_documents(
+    documents=texts,
+    embedding=embeddings
 )
 
-print("Small Business Chroma database loaded.")
+print("Fresh Small Business Chroma database ready.")
 
 llm = ChatCohere(
     model="command-a-03-2025",
