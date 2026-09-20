@@ -156,7 +156,30 @@ chatbot_chain = chatbot_prompt | llm
 print("Chatbot ready.")
 
 def search_knowledge_base(query, k=3):
-    results = docsearch.similarity_search(query, k=k)
+    import time
+
+    print("DIAGNOSTIC: Starting query embedding", flush=True)
+    start = time.time()
+
+    query_vector = embeddings.embed_query(query)
+
+    print(
+        f"DIAGNOSTIC: Query embedding finished in {time.time() - start:.2f} seconds",
+        flush=True
+    )
+
+    print("DIAGNOSTIC: Starting Chroma vector search", flush=True)
+    start = time.time()
+
+    results = docsearch.similarity_search_by_vector(
+        query_vector,
+        k=k
+    )
+
+    print(
+        f"DIAGNOSTIC: Chroma vector search finished in {time.time() - start:.2f} seconds",
+        flush=True
+    )
 
     unique_results = []
     seen_content = set()
