@@ -11,8 +11,8 @@ def home():
     if request.method == "POST":
         question = request.form.get("question")
         mode = request.form.get("mode")
-        print("Mode:", mode)
-        print("Question:", question)
+        print("Mode:", mode, flush=True)
+        print("Question:", question, flush=True)
         response = run_thinkbot(mode, question)
         response = markdown.markdown(response)
 
