@@ -200,10 +200,11 @@ def search_knowledge_base(query, k=3):
     print("DIAGNOSTIC: Starting Chroma vector search", flush=True)
     start = time.time()
 
-    results = docsearch.similarity_search_by_vector(
-        query_vector,
-        k=k
+    direct_results = docsearch._collection.query(
+    query_embeddings=[query_vector],
+    n_results=k
     )
+    print("DIAGNOSTIC: Direct Chroma query finished", flush=True)
 
     print(
         f"DIAGNOSTIC: Chroma vector search finished in {time.time() - start:.2f} seconds",
