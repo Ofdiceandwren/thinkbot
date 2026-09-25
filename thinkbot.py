@@ -131,7 +131,11 @@ docsearch = Chroma(
     collection_name="sba_knowledge_base",
     embedding_function=embeddings
 )
-docsearch.add_documents(texts)
+if docsearch._collection.count() == 0:
+    docsearch.add_documents(texts)
+    print("ThinkBot stocked its cloud brain with SBA knowledge.")
+else:
+    print("ThinkBot's cloud brain is already stocked and ready.")
 
 llm = ChatCohere(
     model="command-a-03-2025",
