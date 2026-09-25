@@ -1,6 +1,7 @@
 import os
-
 import cohere
+import chromadb
+
 from langchain_cohere import ChatCohere
 from langchain_core.embeddings import Embeddings
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
@@ -115,14 +116,22 @@ class CohereV2Embeddings(Embeddings):
 
 embeddings = CohereV2Embeddings()
 
-print("Building fresh Small Business Chroma database...")
+print("ThinkBot is reaching for the cloud...")
 
-docsearch = Chroma.from_documents(
-    documents=texts,
-    embedding=embeddings
+chroma_client = chromadb.CloudClient(
+    api_key=os.getenv("CHROMA_API_KEY"),
+    tenant="3e2135cc-6c62-46b0-be68-77fe9c6bf35e",
+    database="thinkbot-sba"
 )
 
-print("Fresh Small Business Chroma database ready.")
+print("ThinkBot found its brain in the cloud.")
+
+docsearch = Chroma(
+    client=chroma_client,
+    collection_name="sba_knowledge_base",
+    embedding_function=embeddings
+)
+docsearch.add_documents(texts)
 
 llm = ChatCohere(
     model="command-a-03-2025",
@@ -200,11 +209,10 @@ def search_knowledge_base(query, k=3):
     print("DIAGNOSTIC: Starting Chroma vector search", flush=True)
     start = time.time()
 
-    direct_results = docsearch._collection.query(
-    query_embeddings=[query_vector],
-    n_results=k
-    )
-    print("DIAGNOSTIC: Direct Chroma query finished", flush=True)
+    results = docsearch.similarity_search_by_vector(
+    query_vector,
+    k=k
+)
 
     print(
         f"DIAGNOSTIC: Chroma vector search finished in {time.time() - start:.2f} seconds",
